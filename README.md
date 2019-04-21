@@ -1,6 +1,6 @@
 # vuejs-crud
 
-> um CRUD básico de usuários com banco Firestore
+> um CRUD básico de usuários com Firestore
 
 ## Build Setup
 
